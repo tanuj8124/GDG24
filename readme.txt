@@ -1,0 +1,1 @@
+hello everyone this is the public repo of GDG24 AI/ML team
